@@ -1,0 +1,15 @@
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" android:drawable="@drawable/continue_button_normal">
+
+    </item>
+
+    <item android:state_focused="true" android:drawable="@drawable/continue_button_normal">
+
+    </item>
+
+    <item android:drawable="@drawable/continue_button_hover">
+
+    </item>
+</selector>

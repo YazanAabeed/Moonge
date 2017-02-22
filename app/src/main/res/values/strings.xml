@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Smart Cane</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo">logo</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="username_hint">Username</string>
+
+    <string name="icon_heart">&#xf004;</string>
+    <string name="password_hint">Password</string>
+    <string name="user_icon_image">usericon</string>
+    <string name="title_activity_landing__page">Landing_Page</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="new_user">newUser</string>
+    <string name="new_user_txt">New User</string>
+    <string name="validation_txt">Wrong username or password.</string>
+    <string name="logout_dicription">logout_click</string>
+    <string name="moonge_home">Its Moonge Home</string>
+    <string name="acount_balance_discrition">acount balance button</string>
+    <string name="invoices_button_dic">invoices button</string>
+    <string name="about_us_button">about us button</string>
+    <string name="celender_button">celender button</string>
+    <string name="my_acount_button">my acount button</string>
+    <string name="report_button">repot button</string>
+
+    <string name="criedt_card">&#xf09d;</string>
+    <string name="acount_balance">Acount Balance</string>
+    <string name="invoices">Invoices</string>
+    <string name="about_us">About Us</string>
+    <string name="calender">Calender</string>
+    <string name="my_account">My Account</string>
+    <string name="report">Report</string>
+    <string name="user_name">user_name</string>
+    <string name="title_activity_register_new_user">register_new_user</string>
+    <string name="lets_get_you_started">Lets Get You Started</string>
+    <string name="welcome_to_moonge">Welcome to Smart Cane</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="required_first_name">First Name is required</string>
+    <string name="last_name_required">Last Name is required</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="email_valid">Email is required</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="phone_required">Phone Number is required</string>
+    <string name="email_hint">your@email.com</string>
+    <string name="passwrod_valid">Password is required</string>
+    <string name="continue_button">continue</string>
+    <string name="user_info">USER INFO</string>
+    <string name="title_activity_account_balance">account_balance</string>
+    <string name="account_balance_title">My Account Balance</string>
+    <string name="name_account_inlist">name</string>
+    <string name="account_amount">account</string>
+    <string name="money">money</string>
+    <string name="account_balanace_name_dialog">Name</string>
+    <string name="amount_balance_dialog">Phone Number</string>
+    <string name="add_account_balance_button">Add</string>
+
+    <string-array name="array_recipient">
+        <item>Select Recipient</item>
+        <item>Food</item>
+        <item>Electricity</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="array_category_invoice">
+        <item>Select Category</item>
+        <item>Electricity Bill</item>
+        <item>Water Bill</item>
+        <item>Phone Bill</item>
+        <item>Internet Bill</item>
+        <item>House rent</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_calnder">calnder</string>
+    <string name="recipient_prompt">Choose a recipient</string>
+    <string name="title_activity_invoices">Invoices</string>
+    <string name="title_activity_reminder_popup">reminder_popup</string>
+    <string name="invoices_reminder">Invoices Reminder</string>
+    <string name="title_activity_blue_tooth">BlueTooth</string>
+</resources>

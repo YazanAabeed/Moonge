@@ -1,0 +1,13 @@
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" android:drawable="@drawable/ic_exposure_plus_1_black_24dp">
+
+    </item>
+
+    <item android:state_focused="true" android:drawable="@drawable/ic_exposure_plus_1_black_24dp">
+
+    </item>
+
+    <item android:drawable="@drawable/ic_exposure_plus_1_white_24dp"></item>
+</selector>

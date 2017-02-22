@@ -1,0 +1,15 @@
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" android:drawable="@drawable/invoices_hover">
+
+    </item>
+
+    <item android:state_focused="true" android:drawable="@drawable/invoices_hover">
+
+    </item>
+
+    <item android:drawable="@drawable/invoices">
+
+    </item>
+</selector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#f29828</color>
+    <color name="red">#df4b3e</color>
+    <color name="calender">#9329ef</color>
+    <color name="report">#c60c92</color>
+    <color name="about_us">#3fa813</color>
+    <color name="my_account">#9ba64a</color>
+    <color name="white">#FFFFFF</color>
+</resources>
